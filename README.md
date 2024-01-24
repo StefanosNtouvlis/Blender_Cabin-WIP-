@@ -20,7 +20,7 @@ In this project, I ventured into the world of 3D modeling by creating a rustic c
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YourUsername/CabinInTheWoods.git
+   git clone https://github.com/YourUsername/Blender_Cabin-WIP-.git
    ```
 
 3. **Open in Blender:**
