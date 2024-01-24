@@ -24,18 +24,14 @@ In this project, I ventured into the world of 3D modeling by creating a rustic c
    ```
 
 3. **Open in Blender:**
-   - Launch Blender.
-   - Open the project file: `cabin_in_the_woods.blend`.
+   - Launch Blender 4.0.
+   - Open the project file: `cabin.blend`.
+   - Experiment
 
-4. **Play the Animation:**
-   - Witness the cabin come to life with a captivating rotating animation, showcasing the details and charm of the woodland retreat.
+4. **Enjoy the Animation:**
+   - Open the animation file `cabinimation(frame issue).blend`.
+   - Enjoy the rotating view of the cabin.
 
 ## Contribution
 
 While this project is currently on hold, your insights and suggestions are always welcome! Feel free to open issues or share ideas for improvement.
-
-## LinkedIn Post
-
-Hey LinkedIn fam! 🏡✨ Just had to share the latest from my Blender adventures – a cabin in the woods! 🌲 This project pushed my creative boundaries, being the first non-tutorial endeavor. The process was demanding but so worth it. From modeling the cabin to creating an enchanting rotating animation, the journey has been nothing short of amazing!
-
-This marks only my third project, and the excitement to explore human figure modeling is already building up. Can't wait to share more creative journeys ahead! 🚀✨ #BlenderArt #3DModeling #CabinInTheWoods #CreativeJourney #OnHoldButNotForgotten
